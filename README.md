@@ -15,7 +15,7 @@
 
   Categorised the clusters into:
   
-  a)Low-Income and Low-Spending 
-  b)Low-Income and High-Spending
-  c)High-Income and Low-Spending 
-  d)High-Income and High-Spending 
+  **a)** Low-Income and Low-Spending 
+  **b)** Low-Income and High-Spending
+  **c)** High-Income and Low-Spending 
+  **d)** High-Income and High-Spending 
