@@ -1,17 +1,17 @@
 # Customer_Categorization
 
-**a)Description**:To categorize customers into different segments based on purchasing behavior for personalized marketing
+**i)Description**:To categorize customers into different segments based on purchasing behavior for personalized marketing
 
-**b)Link to the project**:[Customer_Categorization](https://github.com/PRANAVKUMAR183/Customer_Categorization)
+**ii)Link to the project**:[Customer_Categorization](https://github.com/PRANAVKUMAR183/Customer_Categorization)
 
 
-**c)Key techniques used**:
+**iii)Key techniques used**:
 
 **K-Means Clustering**: Applied to segment customers into distinct groups.
   
 **RFM Analysis**: (Recency, Frequency, Monetary) Used to profile customers based on purchasing patterns.
 
-**d)Summary**:
+**iv)Summary**:
 
   Categorised the clusters into:
   
