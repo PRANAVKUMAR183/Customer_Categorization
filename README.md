@@ -19,3 +19,4 @@
   **b)** Low-Income and High-Spending
   **c)** High-Income and Low-Spending 
   **d)** High-Income and High-Spending 
+  **e)** Medium-Income and Medium-Spending
